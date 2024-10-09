@@ -17,3 +17,11 @@ React est un framework JavaScript très populaire, créé par Facebook, qui perm
 - Avec des outils comme Next.js, on peut rendre nos applications plus performantes pour le SEO en utilisant le rendu côté serveur (SSR). C’est un vrai plus pour les projets où le référencement est important.
 - React est déjà adopté par de grandes entreprises comme Facebook, Airbnb et Netflix. C’est un signe que c’est un choix sécurisé pour les projets professionnels de grande envergure.
 - Dans mon entreprise, nous avons choisi React car il s'intègre bien avec **Electron** pour créer des applications desktop performantes, tandis que pour les PWA (Progressive Web Apps) de nos clients, nous utilisons uniquement **React**. Cela nous permet d'avoir une seule base de code pour les versions ordinateur et mobile, simplifiant ainsi le développement et la maintenance.
+
+## 🔍 Comparatif des Frameworks JavaScript
+
+Pour justifier le choix de React, voici un comparatif de l'utilisation des principaux frameworks JavaScript en 2023 :
+
+![Comparatif des Frameworks JavaScript](./img//comparatif_framewor.png)
+
+L'image ci-dessus montre que React reste le choix préféré des développeurs en raison de sa flexibilité et de sa large adoption dans la communauté.
