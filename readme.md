@@ -22,6 +22,6 @@ React est un framework JavaScript très populaire, créé par Facebook, qui perm
 
 Pour justifier le choix de React, voici un comparatif de l'utilisation des principaux frameworks JavaScript en 2023 :
 
-![Comparatif des Frameworks JavaScript](./img//comparatif_framewor.png)
+![Comparatif des Frameworks JavaScript](./img/comparatif_framework.png)
 
 L'image ci-dessus montre que React reste le choix préféré des développeurs en raison de sa flexibilité et de sa large adoption dans la communauté.
