@@ -90,3 +90,9 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | -------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
 | Reddit         | [React Reddit](https://www.reddit.com/r/reactjs/)                          | Forum pour discuter des meilleures pratiques et des problèmes liés à React. |
 | Stack Overflow | [React Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs) | Plateforme pour poser des questions et obtenir des réponses sur React.      |
+
+### Podcasts
+
+| Podcast   | Lien                            | Justification                                                         |
+| --------- | ------------------------------- | --------------------------------------------------------------------- |
+| Syntax FM | [Syntax FM](https://syntax.fm/) | Podcast couvrant divers sujets de développement web, y compris React. |
