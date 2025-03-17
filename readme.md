@@ -33,3 +33,13 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | ----------- | --------------------------------------------------------- | ----------------------------------------------------------------------- |
 | Twitter (X) | [React Twitter](https://twitter.com/reactjs)              | Compte officiel de React pour suivre les annonces et mises à jour.      |
 | LinkedIn    | [React LinkedIn](https://www.linkedin.com/company/react/) | Réseau professionnel pour suivre les discussions et articles sur React. |
+
+### Comptes à Suivre sur Twitter (X)
+
+| Type                     | Compte                                                        | Justification                                                          |
+| ------------------------ | ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| Compte Officiel          | [React (@reactjs)](https://twitter.com/reactjs)               | Compte officiel de React pour les annonces et mises à jour.            |
+| Créateur                 | [Jordan Walke (@jordwalke)](https://twitter.com/jordwalke)    | Créateur de React.                                                     |
+| Développeurs             | [Dan Abramov (@dan_abramov)](https://twitter.com/dan_abramov) | Membre de l'équipe React chez Facebook.                                |
+| Formateurs               | [Academind (@academind)](https://twitter.com/academind)       | Formateur en React et autres technologies web.                         |
+| Développeurs Spécialisés | [Kent C. Dodds (@kentcdodds)](https://twitter.com/kentcdodds) | Développeur spécialisé en React et contributeur actif à la communauté. |
