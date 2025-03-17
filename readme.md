@@ -43,3 +43,10 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | Développeurs             | [Dan Abramov (@dan_abramov)](https://twitter.com/dan_abramov) | Membre de l'équipe React chez Facebook.                                |
 | Formateurs               | [Academind (@academind)](https://twitter.com/academind)       | Formateur en React et autres technologies web.                         |
 | Développeurs Spécialisés | [Kent C. Dodds (@kentcdodds)](https://twitter.com/kentcdodds) | Développeur spécialisé en React et contributeur actif à la communauté. |
+
+### Hashtags
+
+| Hashtag     | Justification                                                             |
+| ----------- | ------------------------------------------------------------------------- |
+| #ReactJS    | Hashtag principal pour suivre les discussions et actualités sur React.    |
+| #JavaScript | Pour suivre les tendances générales en JavaScript, souvent liées à React. |
