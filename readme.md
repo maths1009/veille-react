@@ -58,3 +58,11 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | Reactiflux           | [Reactiflux](https://www.reactiflux.com/)            | Communauté Discord pour discuter de React et obtenir de l'aide.       |
 | React Conf           | [React Conf](https://conf.reactjs.org/)              | Conférence annuelle officielle de React.                              |
 | Meetup React         | [Meetup React](https://www.meetup.com/topics/react/) | Groupes de meetup locaux pour rencontrer d'autres développeurs React. |
+
+### Youtubeurs
+
+| Chaîne         | Lien                                                     | Justification                                                     |
+| -------------- | -------------------------------------------------------- | ----------------------------------------------------------------- |
+| React          | [React YouTube](https://www.youtube.com/@React)          | Chaîne officielle de React pour les tutoriels et les conférences. |
+| Traversy Media | [Traversy Media](https://www.youtube.com/@TraversyMedia) | Tutoriels et projets React pour les développeurs de tous niveaux. |
+| Academind      | [Academind](https://www.youtube.com/@academind)          | Formations complètes sur React et autres technologies web.        |
