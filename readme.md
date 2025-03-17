@@ -50,3 +50,11 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | ----------- | ------------------------------------------------------------------------- |
 | #ReactJS    | Hashtag principal pour suivre les discussions et actualités sur React.    |
 | #JavaScript | Pour suivre les tendances générales en JavaScript, souvent liées à React. |
+
+### Communautés et Événements
+
+| Communauté/Événement | Lien                                                 | Justification                                                         |
+| -------------------- | ---------------------------------------------------- | --------------------------------------------------------------------- |
+| Reactiflux           | [Reactiflux](https://www.reactiflux.com/)            | Communauté Discord pour discuter de React et obtenir de l'aide.       |
+| React Conf           | [React Conf](https://conf.reactjs.org/)              | Conférence annuelle officielle de React.                              |
+| Meetup React         | [Meetup React](https://www.meetup.com/topics/react/) | Groupes de meetup locaux pour rencontrer d'autres développeurs React. |
