@@ -73,3 +73,13 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | -------- | ------------------------------------ | ------------------------------------------------------------------------------- |
 | Feedly   | [Feedly](https://feedly.com)         | Permet de centraliser les flux RSS de différents sites et blogs orientés React. |
 | Netvibes | [Netvibes](https://www.netvibes.com) | Offre une interface personnalisable pour suivre les actualités React.           |
+
+## Outils et Sources Utilisés
+
+### Sites Internet et Blogs
+
+| Site/Blog     | Lien                                           | Justification                                                       |
+| ------------- | ---------------------------------------------- | ------------------------------------------------------------------- |
+| Site Officiel | [React Official](https://reactjs.org)          | Documentation officielle et ressources pour apprendre React.        |
+| Medium        | [React Medium](https://medium.com/tag/reactjs) | Articles et tutoriels écrits par la communauté React.               |
+| Dev.to        | [React Dev.to](https://dev.to/t/react)         | Plateforme de partage de connaissances pour les développeurs React. |
