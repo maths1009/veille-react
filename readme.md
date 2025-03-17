@@ -66,3 +66,10 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | React          | [React YouTube](https://www.youtube.com/@React)          | Chaîne officielle de React pour les tutoriels et les conférences. |
 | Traversy Media | [Traversy Media](https://www.youtube.com/@TraversyMedia) | Tutoriels et projets React pour les développeurs de tous niveaux. |
 | Academind      | [Academind](https://www.youtube.com/@academind)          | Formations complètes sur React et autres technologies web.        |
+
+### Agrégateurs de Flux RSS
+
+| Outil    | Lien                                 | Justification                                                                   |
+| -------- | ------------------------------------ | ------------------------------------------------------------------------------- |
+| Feedly   | [Feedly](https://feedly.com)         | Permet de centraliser les flux RSS de différents sites et blogs orientés React. |
+| Netvibes | [Netvibes](https://www.netvibes.com) | Offre une interface personnalisable pour suivre les actualités React.           |
