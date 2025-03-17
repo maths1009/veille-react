@@ -83,3 +83,10 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | Site Officiel | [React Official](https://reactjs.org)          | Documentation officielle et ressources pour apprendre React.        |
 | Medium        | [React Medium](https://medium.com/tag/reactjs) | Articles et tutoriels écrits par la communauté React.               |
 | Dev.to        | [React Dev.to](https://dev.to/t/react)         | Plateforme de partage de connaissances pour les développeurs React. |
+
+### Communautés et Forums
+
+| Communauté     | Lien                                                                       | Justification                                                               |
+| -------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
+| Reddit         | [React Reddit](https://www.reddit.com/r/reactjs/)                          | Forum pour discuter des meilleures pratiques et des problèmes liés à React. |
+| Stack Overflow | [React Stack Overflow](https://stackoverflow.com/questions/tagged/reactjs) | Plateforme pour poser des questions et obtenir des réponses sur React.      |
