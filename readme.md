@@ -96,3 +96,10 @@ L'image ci-dessus montre que React reste le choix préféré des développeurs e
 | Podcast   | Lien                            | Justification                                                         |
 | --------- | ------------------------------- | --------------------------------------------------------------------- |
 | Syntax FM | [Syntax FM](https://syntax.fm/) | Podcast couvrant divers sujets de développement web, y compris React. |
+
+### Google Alertes
+
+| Alerte          | Justification                                                           |
+| --------------- | ----------------------------------------------------------------------- |
+| React News      | Alerte pour recevoir les dernières nouvelles et mises à jour sur React. |
+| React Tutorials | Alerte pour découvrir de nouveaux tutoriels et ressources pédagogiques. |
