@@ -26,3 +26,10 @@ Pour justifier le choix de React, voici un comparatif de l'utilisation des princ
 ![Comparatif des Frameworks JavaScript](./img/comparatif_framework.png)
 
 L'image ci-dessus montre que React reste le choix préféré des développeurs en raison de sa flexibilité et de sa large adoption dans la communauté.
+
+## Réseaux Sociaux
+
+| Plateforme  | Lien                                                      | Justification                                                           |
+| ----------- | --------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Twitter (X) | [React Twitter](https://twitter.com/reactjs)              | Compte officiel de React pour suivre les annonces et mises à jour.      |
+| LinkedIn    | [React LinkedIn](https://www.linkedin.com/company/react/) | Réseau professionnel pour suivre les discussions et articles sur React. |
